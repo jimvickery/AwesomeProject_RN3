@@ -115,7 +115,6 @@ const styles = StyleSheet.create({
     
   },
   welcomeContainer: {
-    
     alignItems: 'center',
     marginTop: 10,
     marginBottom: 20,
