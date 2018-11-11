@@ -112,8 +112,10 @@ const styles = StyleSheet.create({
   },
   contentContainer: {
     paddingTop: 30,
+    
   },
   welcomeContainer: {
+    
     alignItems: 'center',
     marginTop: 10,
     marginBottom: 20,
